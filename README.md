@@ -1,6 +1,7 @@
 # HR_Analytics_Dashboard
 
- # Objective: Help an organization to improve employee performance and reduce employee attrition by creating HR Analytics Report.
+ # Objective:
+ Help an organization to improve employee performance and reduce employee attrition by creating HR Analytics Report.
 
  # Steps Followed:
  1) Remove Nan values
